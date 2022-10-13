@@ -13,13 +13,16 @@ Data was collected from John Hopkins University public GitHub repository.
 EDA:
 
 Count of Covid-19 cases and deaths all over the world over time:
-![image](https://user-images.githubusercontent.com/22210769/195724470-ecb9b286-0080-41cd-bdab-36b1ce6562da.png)
+
+<img width="667" alt="image" src = "https://user-images.githubusercontent.com/22210769/195724470-ecb9b286-0080-41cd-bdab-36b1ce6562da.png">
 
 Counr of Covid-19 cases and deaths in USA over time:
+
 <img width="667" alt="image" src="https://user-images.githubusercontent.com/22210769/195724804-4ae4a907-2584-4058-b6ac-4dc27285d455.png">
 
 Linear regression output:
-<img width="718" alt="image" src="https://user-images.githubusercontent.com/22210769/195724915-653ce339-2700-4abb-ac13-c234b32d924d.png">
+
+<img width="667" alt="image" src="https://user-images.githubusercontent.com/22210769/195724915-653ce339-2700-4abb-ac13-c234b32d924d.png">
 
 ## Biases  
 
